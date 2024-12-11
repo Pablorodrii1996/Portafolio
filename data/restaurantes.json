@@ -1,0 +1,32 @@
+[
+    {
+        "nombre": "La Bocca",
+        "tipo_comida": "Mediterranea",
+        "descripcion": "Un acogedor restaurante en el centro de Zaragoza, destacan sus menús del día y sus postres."
+    },
+    {
+        "nombre": "La Tarberna del Sushi",
+        "tipo_comida": "Japonesa",
+        "descripcion": "Especializado en sushi fresco y platos tradicionales japoneses."
+    },
+    {
+        "nombre": "Los Zagales",
+        "tipo_comida": "Española",
+        "descripcion": "Un lugar típico para disfrutar de bocadillos y raciones a precio económico en pleno centro de la ciudad."
+    },
+    {
+        "nombre": "La Bombonera",
+        "tipo_comida": "Mediterranea",
+        "descripcion": "Un restaurante con platos exquisitos, donde destacan las carnes y los huevos rotos."
+    },
+    {
+        "nombre": "La Quebradora",
+        "tipo_comida": "Mejicana",
+        "descripcion": "Especializado en comida mexicana, donde puedes disfrutar de nachos, tacos, quesadillas y todo con auténtico sabor mejicano."
+    },
+    {
+        "nombre": "Bar Estudios",
+        "tipo_comida": "Española",
+        "descripcion": "Un lugar típico de Zaragoza, en el que encontrarás todo tipo de quesos y embutidos, servidos en tablas mixtas."
+    }
+]
