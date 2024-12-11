@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Inicio on Portafolio Pablo Rodríguez</title>
-    <link>http://localhost:63282/</link>
+    <link>http://localhost/</link>
     <description>Recent content in Inicio on Portafolio Pablo Rodríguez</description>
     <generator>Hugo -- 0.139.4</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:63282/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown</title>
-      <link>http://localhost:63282/markdown/</link>
+      <link>http://localhost/markdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63282/markdown/</guid>
+      <guid>http://localhost/markdown/</guid>
       <description>Sintaxis de Markdown con ejemplos</description>
     </item>
     <item>
       <title>Mis Hobbies</title>
-      <link>http://localhost:63282/hobbies/</link>
+      <link>http://localhost/hobbies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63282/hobbies/</guid>
+      <guid>http://localhost/hobbies/</guid>
       <description>¿En qué me gusta emplear mi tiempo libre?</description>
     </item>
     <item>
       <title>Tecnica</title>
-      <link>http://localhost:63282/tecnica/</link>
+      <link>http://localhost/tecnica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63282/tecnica/</guid>
+      <guid>http://localhost/tecnica/</guid>
       <description>Lenguaje de programación JavaScript</description>
     </item>
   </channel>
